@@ -1,0 +1,17 @@
+[
+    {
+      "textcomment": "It's really hard!!",
+      "user_id":1,
+      "blog_id":1
+    },
+    {
+      "textcomment": "It's really good tech!",
+      "user_id":2,
+      "blog_id":1
+    },
+    {
+      "textcomment": "Really nice one",
+      "user_id":3,
+      "blog_id":2
+    }
+  ]

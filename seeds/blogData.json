@@ -1,0 +1,17 @@
+[
+  {
+    "title": "JAVA",
+    "content": "It's hard",
+    "user_id": 1
+  },
+  {
+    "title": "Python",
+    "content": "It's good tech!",
+    "user_id": 2
+  },
+  {
+    "title": "Javascript",
+    "content": "Nice one",
+    "user_id": 3
+  }
+]
